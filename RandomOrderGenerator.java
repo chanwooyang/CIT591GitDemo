@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class RandomOrderGenerator {
+public class RandomNumericGenerator {
 	
 	/***
 	 * Given n numbers, this method returns an array
@@ -21,7 +21,7 @@ public class RandomOrderGenerator {
 	}
 	
 	public static void main(String[] args) {
-		System.out.println(Arrays.toString(RandomOrderGenerator.getRandomOrder(10)));
+		System.out.println(Arrays.toString(RandomOrderGenerator.getRandomOrder(1000)));
 	}
 	
 }

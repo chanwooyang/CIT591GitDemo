@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class RandomNumericGenerator {
+public class RandomNumberGenerator {
 	
 	/***
 	 * Given n numbers, this method returns an array

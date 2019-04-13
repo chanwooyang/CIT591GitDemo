@@ -21,7 +21,7 @@ public class RandomNumberGenerator {
 	}
 	
 	public static void main(String[] args) {
-		System.out.println(Arrays.toString(RandomNumberGenerator.getRandomOrder(100)));
+		System.out.println(Arrays.toString(RandomOrderGenerator.getRandomOrder(1000)));
 	}
 	
 }
